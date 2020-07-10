@@ -25,7 +25,7 @@ REVIEW: this column contains the review about the teacher that the student has w
 The quality of the data can be considered to be average since there are a lot of spelling mistakes in the review column and this is pivotal because it contains wrong spellings of words which are crucial in predicting about the rating of the review. Although, ratings are all written without any mistakes.
 
 
-!stack Overflow](Instructor-Rating-Prediction-Model/images/1.png)
+![stack Overflow](Instructor-Rating-Prediction-Model/images/1.png)
 
 
 
