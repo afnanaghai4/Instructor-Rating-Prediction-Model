@@ -64,7 +64,7 @@ Above graph shows the total count of the reviews for each category of rating. Ac
 
 
 
-![stack Overflow](/images/6.png)
+![stack Overflow](/images/1.png)
 
 
 
