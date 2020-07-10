@@ -38,7 +38,7 @@ The PC used for modelling is an i5-6300U 8gb RAM DDR4 and 500gb HDD.
 To create the model, we used multiple model building techniques including Random forest, Gaussian Naïve Bayes, Decision tree classifier etc. Train data was split into a 9:1 ratio and we used 90% for model building while tested the model on the remaining 10%. We also used k-means clustering technique but it did not result in an increase in the accuracy so we stopped using it.
 Multinomial Naïve Bayes was the method which gave us the highest accuracy among all the techniques that we tried. We applied the method with Count vectorizer using unigrams and bigrams and max features limited to 8667. With these features restriction, we managed to get an accuracy of 0.5681(about 57%) which was the highest among all the different methods we had tried earlier.
 	
-	![stack Overflow](/images/5.png)
+![stack Overflow](/images/5.png)
 
 This is the Multinomial Naïve Bayes code snippet along with its accuracy.
 Before Multinomial NB we had tried Random forest, Decision tree, Ensemble techniques including Adaboosting and Gradient boosting. We also tried Gaussian Naïve Bayes but still it gave lesser accuracy than multinomial Naïve Bayes.
@@ -54,7 +54,7 @@ This is Gaussian Naïve Bayes code snippet along with its accuracy.
 The language used in building the model is Python along with Jupyter IDE. The libraries we used are Sklearn, Pandas, keras, wordcloud, matplotlib, seaborn, numpy. Sklearn, Pandas, keras numpy were used in the processing of the data while matplotlib, seaborn and wordcloud are used for data visualization like graphs and wordclouds.
 
 
-	![stack Overflow](/images/2.png)
+![stack Overflow](/images/2.png)
 
 
 
